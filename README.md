@@ -9,3 +9,7 @@ export KMP_DUPLICATE_LIB_OK=True
 ```
 pip install -r requirements.txt
 ```
+
+```
+streamlit run app.py
+```
